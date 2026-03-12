@@ -2,7 +2,7 @@
 
 **Product Developer | Systems Builder | B.Sc. Mechanical Engineering @ HAW Hamburg**
 
-I am a software developer and product builder focused on scalable architectures and system design. I specialize in bridging the gap between complex business logic—like B2B logistics and fintech frameworks—and clean, user-centric applications. 
+I am a software developer and product builder focused on scalable architectures and system design. I specialize in bridging the gap between complex business logic: like B2B logistics and fintech frameworks and clean, user-centric applications. 
 
 Currently based in Hamburg, Germany, and actively looking for **Werkstudent** opportunities in Software Engineering or Product Development.
 
@@ -17,7 +17,7 @@ Currently based in Hamburg, Germany, and actively looking for **Werkstudent** op
 - **Strategy:** UI/UX Development, Go-to-Market Strategy, ROI and Risk Analysis.
 
 ### 🚀 What I'm Currently Working On
-- 🌍 **EcoLogistics:** Architecting a multi-tier SaaS logistics platform utilizing Dart and PostgreSQL. Building a dynamic CO2 emission calculation engine for corporate fleets alongside role-specific dashboards for managers and drivers. (Private Repository).
+- 🌍 **EcoLogistics:** Architecting a multi-tier SaaS logistics platform utilizing Dart and PostgreSQL. Building a dynamic CO2 emission calculation engine for corporate fleets alongside role-specific dashboards for managers and drivers. 
 - 📱 **BioBit (Startup):** Iterating the architecture and relational database logic for a highly scalable social networking concept.
 
 ### 📂 Featured Architecture Case Studies
