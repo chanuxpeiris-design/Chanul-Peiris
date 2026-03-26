@@ -23,7 +23,7 @@ Currently based in Hamburg, Germany, and actively looking for **Werkstudent** op
 ### 📂 Featured Architecture Case Studies
 *Note: Due to the proprietary nature of my core projects, the source code is kept in private repositories. Please view the architectural teardowns below to see how I build systems.*
 
-- 🔗 [EcoLogistics: System Architecture and RBAC Implementation](#) *(Link your Case Study repo here later)*
+- 🔗 [EcoLogistics: System Architecture and RBAC Implementation](https://github.com/chanuxpeiris-design/ecoLogistics-SaaS-architecture)*
 - 🔗 [Connecto: Database Schema, Verification Engine and Retention Strategy](https://github.com/chanuxpeiris-design/connecto-architecture-case-study)*
   
 ### 📫 Let's Connect
