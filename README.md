@@ -1,31 +1,66 @@
-# Hi there, I'm Chanul 👋
+# Chanul Peiris
 
-**Product Developer | Systems Builder | B.Sc. Mechanical Engineering @ HAW Hamburg**
+**Mechanical Engineering Student | Technical Founder | Product and Systems Builder**
 
-I am a software developer and product builder focused on scalable architectures and system design. I specialize in bridging the gap between complex business logic: like B2B logistics and fintech frameworks and clean, user-centric applications. 
+I am a Mechanical Engineering student at Hamburg University of Applied Sciences (HAW Hamburg) with a strong focus on product development, system design, and scalable digital architectures. My work combines engineering principles with practical implementation, enabling me to design and develop structured, real-world solutions.
+I have hands-on experience building and analyzing digital systems, with particular interest in SaaS platforms, data-driven applications, and technology-driven business models. My approach emphasizes structured problem-solving, system thinking, and the ability to translate concepts into functional and testable solutions.
 
-Currently based in Hamburg, Germany, and actively looking for **Werkstudent** opportunities in Software Engineering or Product Development.
+Currently based in Hamburg, Germany, I am seeking **werkstudent opportunities** in engineering, product development, or technology-driven roles.
 
-### 🛠️ Tech Stack & Tools
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+## Technical Skills
 
-- **Architecture:** SaaS Product Development, Relational Database Design, Role-Based Access Control (RBAC).
-- **Strategy:** UI/UX Development, Go-to-Market Strategy, ROI and Risk Analysis.
+**Programming and Tools**
+- Dart (FlutterFlow)
+- PostgreSQL / Supabase
+- Git (Version Control)
+- Python
 
-### 🚀 What I'm Currently Working On
-- 🌍 **EcoLogistics:** Architecting a multi-tier SaaS logistics platform utilizing Dart and PostgreSQL. Building a dynamic CO2 emission calculation engine for corporate fleets alongside role-specific dashboards for managers and drivers. 
-- 📱 **BioBit (Startup):** Iterating the architecture and relational database logic for a highly scalable social networking concept.
+**Core Competencies**
+- System Architecture and Design  
+- Relational Database Design  
+- SaaS Product Development (MVP Focus)  
+- API Integration (Basic)  
 
-### 📂 Featured Architecture Case Studies
-*Note: Due to the proprietary nature of my core projects, the source code is kept in private repositories. Please view the architectural teardowns below to see how I build systems.*
+**Engineering and Analytical Skills**
+- Mechanical Design Principles  
+- Structured Problem Solving  
+- Systems Thinking  
+- Data Analysis (Basic)  
 
-- 🔗 [EcoLogistics: System Architecture and RBAC Implementation](https://github.com/chanuxpeiris-design/ecoLogistics-SaaS-architecture)*
-- 🔗 [Connecto: Database Schema, Verification Engine and Retention Strategy](https://github.com/chanuxpeiris-design/connecto-architecture-case-study)*
-  
-### 📫 Let's Connect
-- **LinkedIn:** [linkedin.com/in/chanul-peiris](https://www.linkedin.com/in/chanul-peiris-314876378)
-- **Email:** chanuxpeiris@gmail.com
+## Current Work
+
+**EcoLogistics (Concept Development)**
+- Designing a SaaS-based logistics platform focused on CO₂ tracking and operational efficiency  
+- Developing system architecture and database logic for multi-user environments  
+- Implementing role-based data structures and dashboard concepts  
+
+**BioBit (Startup Initiative)**
+- Working on scalable system architecture for a social platform concept  
+- Designing relational database structures and feature logic  
+- Focusing on performance, scalability, and structured system design  
+
+## Selected Work and Case Studies
+
+*Due to the proprietary nature of core projects, source code is maintained in private repositories. The following case studies demonstrate system design and architecture.*
+
+- **EcoLogistics – System Architecture and RBAC Design**  
+  https://github.com/chanuxpeiris-design/ecoLogistics-SaaS-architecture  
+
+- **Connecto – Database Schema and System Design**  
+  https://github.com/chanuxpeiris-design/connecto-architecture-case-study  
+
+## Additional Experience
+
+- Founder of early-stage digital initiatives, gaining experience in product development, market analysis, and execution  
+- Experience in investment analysis within a personal network, focusing on asset allocation and risk evaluation  
+- Background in competitive sports (Wrestling – Vice Captain), demonstrating discipline, resilience, and teamwork  
+
+## Languages
+
+- English – Fluent (IELTS 7.0)  
+- German – Basic (A1/A2, actively improving)  
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/chanul-peiris-314876378  
+- Email: chanuxpeiris@gmail.com  
