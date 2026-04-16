@@ -62,5 +62,5 @@ Currently based in Hamburg, Germany, I am seeking **werkstudent opportunities** 
 
 ## Contact
 
-- LinkedIn: https://www.linkedin.com/in/chanul-peiris-314876378  
+- LinkedIn: https://www.linkedin.com/in/chanul-peiris  
 - Email: chanuxpeiris@gmail.com  
